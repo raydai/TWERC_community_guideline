@@ -1,5 +1,3 @@
-![Logo](cropped-tulaneurf_stickerNEW.png)<!-- .element width="100" style="float: right;" -->
-
 # TWERC Workspace Community Guideline
 
 All TWERC members share this workspace for the common good, so please be kind and respectful.
