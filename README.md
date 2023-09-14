@@ -65,4 +65,4 @@ All members should understand that speech and behavior have consequences, and th
 
 If a violation occurs, the workspace administrators will take any action they deem appropriate for the violation, including account removal from the TWERC workspace.
 
-Lastly, this code of conduct was revised with reference to the Django Code of Conduct, and the Citizen Code of Conduct.
+Lastly, this code of conduct was revised with reference to [the Django Code of Conduct](https://www.djangoproject.com/conduct/), and [the Citizen Code of Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md).
