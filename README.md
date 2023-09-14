@@ -1,3 +1,4 @@
+![Logo](cropped-tulaneurf_stickerNEW.png)
 # TWERC Workspace Community Guideline
 
 All TWERC members share this workspace for the common good, so please be kind and respectful.
